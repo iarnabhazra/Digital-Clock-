@@ -1,0 +1,12 @@
+body {
+    background-size: cover;
+    height: 100%;
+    text-align: center;
+    text-shadow: 5px 5px 5px #FF0000;
+    color: #ffffff;
+    font-size: 6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1a1b1b;
+}   
